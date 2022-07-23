@@ -1,2 +1,2 @@
-# python
+# pythonprojeleri
 python projeleri
